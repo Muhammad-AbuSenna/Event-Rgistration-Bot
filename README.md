@@ -21,3 +21,6 @@ Sending invitation emails can be tedious work to the responsible team in an orga
 
 My project was built upon the concept of **Dispatcher** and **Performer** model so let us discuss what technologies they are built with and how to configure them to make the project be able function.
 
+# **Important**:
+
+This was a brief description of the project; you need to read the **Project Aspects - Event Registration Bot.pdf** file for full documentation and configuration of the project.
