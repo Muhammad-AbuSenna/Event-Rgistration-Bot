@@ -23,4 +23,4 @@ My project was built upon the concept of **Dispatcher** and **Performer** model 
 
 # **Important**:
 
-This was a brief description of the project; you need to read the **Project Aspects - Event Registration Bot.pdf** file for full documentation and configuration of the project.
+This was a brief description of the project; you need to read the **Project Aspects - Event Registration Bot.pdf** file in Documentation folder for full documentation and configuration of the project.
