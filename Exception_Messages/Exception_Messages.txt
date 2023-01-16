@@ -1,0 +1,10 @@
+The Exception messages file will contain the system errors messages caught by the Global Handler.
+=====================================================================================================
+Exception Messages:
+
+- The following error occurred at: 01/15/2023 21:46:45
+The exception source: System.Private.CoreLib
+Exception Message: The given key 'RetryNumberSetTransactionStatus' was not present in the dictionary.
+- The following error occurred at: 01/15/2023 22:19:50
+The exception source: System.Private.CoreLib
+Exception Message: The process cannot access the file 'G:\EventRegistrationBot\EVENT REGISTRATION BOT\Data\Config.xlsx' because it is being used by another process.
