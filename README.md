@@ -19,8 +19,10 @@ Sending invitation emails can be tedious work to the responsible team in an orga
 -   Send invitation email with the QR code image to user account he provided in his details.
 -   Save the user details along with his custom ID in Excel sheet database for later validation by scanning the QR code image and match the custom ID to the one in our database.
 
-My project was built upon the concept of **Dispatcher** and **Performer** model so let us discuss what technologies they are built with and how to configure them to make the project be able function.
+
 
 # **Important**:
 
 This was a brief description of the project; you need to read the **Project Aspects - Event Registration Bot.pdf** file in Documentation folder for full documentation and configuration of the project.
+
+You can find the web application files in **EVENT REGISTRATION FORM** folder.
